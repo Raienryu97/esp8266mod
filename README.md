@@ -16,6 +16,10 @@ Program To Flash Factory Firmware: [ESP8266 Flasher](https://github.com/nodemcu/
 
 Factory Firmwares Can Be Found [Here](https://github.com/nodemcu/nodemcu-firmware/releases)
 
+[Forums For ESP8266](www.esp8266.com)
+
+Amazing [Book](http://www.esp8266.com/viewtopic.php?f=5&t=4326) to get a start
+
 ####How To Program
 
 Programming can be done in two simple ways, either in Lua or through Arduino IDE, whichever you are comfortable with.
