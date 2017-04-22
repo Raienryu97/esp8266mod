@@ -1,16 +1,16 @@
-ESP8266MOD / ESP8266-12F
+**ESP8266MOD / ESP8266-12F**
 ========================
 
-####Important Notices:
+#### **Important Notices**:
 Top  Port is only to power the module while
-Bottom  Port is to power/flash 
+Bottom  Port is to power/flash
 
-####To Enter FlashMode:
+#### **To Enter FlashMode**:
 Connect the bottom  port to the PC, then while holding the "FLASH" button, press the "RESET" button once.
 You will see a small blue LED blink once. This indicates the module going into flashmode.
 
 
-####Important Programs and Links:
+#### **Important Programs and Links**:
 
 Program To Flash Factory Firmware: [ESP8266 Flasher](https://github.com/nodemcu/nodemcu-flasher)
 
@@ -20,7 +20,7 @@ Factory Firmwares Can Be Found [Here](https://github.com/nodemcu/nodemcu-firmwar
 
 Amazing [Book](http://www.esp8266.com/viewtopic.php?f=5&t=4326) to get a start
 
-####How To Program
+#### **How To Program**
 
 Programming can be done in two simple ways, either in Lua or through Arduino IDE, whichever you are comfortable with.
 
